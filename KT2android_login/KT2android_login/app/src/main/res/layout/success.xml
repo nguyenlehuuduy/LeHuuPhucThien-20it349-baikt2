@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e8f4f8"
+    android:gravity="center"
+    android:orientation="vertical">
+
+<!--    <androidx.recyclerview.widget.RecyclerView-->
+<!--        android:id="@+id/rcyview"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        tools:listitem="@layout/item_login" />-->
+
+    <TextView
+        android:text="Đăng nhập thành công"
+        android:gravity="center"
+        android:textSize="33dp"
+        android:textColor="@color/yellow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
